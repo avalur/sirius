@@ -1,0 +1,6 @@
+hostname: sirius
+global_hostname: 62.183.4.6
+column_name: action
+column_num: 8
+root_quota_user: aiadmin
+gsheet: https://docs.google.com/spreadsheets/d/1wENTr_elp4zw1vOD8RmuaH0kFpqV7EvHYUoOyLNZvAM
