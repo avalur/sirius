@@ -43,7 +43,7 @@ def send_mail(to, subj, body):
     msg['To'] = to
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.starttls()
-    server.login('sirius.cluster.help@gmail.com', 'zv2ei2BSVjKEfTn')
+    server.login('sirius.cluster.help@gmail.com', 'zv2ei2BEfTn')
     server.sendmail('sirius.cluster.help@gmail.com', [to], msg.as_string())
     server.quit()
 
