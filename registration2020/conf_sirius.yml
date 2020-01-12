@@ -1,0 +1,5 @@
+hostname: sirius1
+global_hostname: 188.170.214.41
+port: 59225
+root_quota_user: avdyushenko
+gsheet: https://docs.google.com/spreadsheets/d/1Sn8RDoBqe8NQ5dcugQk_yn47NLj5K393Kckgu9T9bqg
